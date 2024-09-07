@@ -1,4 +1,4 @@
-<h2 align="left">HEY THERE! ITS ME MUHAMMAD ARYAN & AM A PROGRAMMER..</h2>
+<h2 align="left">HEY THERE! ITS ME MUHAMMAD ARYAN A UI/UX ENTHUSIAST </h2>
 
 
 <div align="center">
@@ -54,10 +54,4 @@
 
 <img src="https://raw.githubusercontent.com/MuhammadAriyan/MuhammadAriyan/output/snake.svg" alt="Snake animation" />
 
-
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31deggd35wtsiyuvfh4enu7wcz5q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31deggd35wtsiyuvfh4enu7wcz5q&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
