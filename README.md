@@ -1,4 +1,4 @@
-<h2 align="left">HEY THERE! IT'S ME MUHAMMAD ARYAN A UI/UX ENTHUSIAST </h2>
+<h2 align="left">HEY THERE! IT'S ME MUHAMMAD ARYAN AN UI/UX ENTHUSIAST </h2>
 
 
 <div align="center">
