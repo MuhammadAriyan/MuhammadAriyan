@@ -2,7 +2,6 @@
 
 ![readmebox](./assets/readmebox.svg)
 
-
 <h2 align="left">HEY THERE! IT'S ME MUHAMMAD ARYAN AN UI/UX ENTHUSIAST </h2>
 
 
