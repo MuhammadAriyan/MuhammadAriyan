@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+<img width=100% src='./assets/cover.gif'/>
 
 ![readmebox](./assets/readmebox.svg)
 
@@ -12,7 +12,6 @@
 
 
 
-<img align="right" height="150" src="https://gifdb.com/images/high/hands-doing-fast-typing-animation-qu6prkiu86m4e8yc.gif"  />
 
 
 
