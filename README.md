@@ -1,4 +1,6 @@
 ![readmebox](./assets/readmebox.svg)
+<hr>
+<hr>
 <img width=100% src='./assets/cover.gif'/>
 
 
