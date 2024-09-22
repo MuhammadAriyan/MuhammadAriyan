@@ -2,8 +2,10 @@
 <hr>
 <hr>
 <img width=100% src='./assets/cover.gif'/>
-
-
+<br>
+<br>
+<br>
+<br>
 
 <h2 align="left">HEY THERE! IT'S ME MUHAMMAD ARYAN AN UI/UX ENTHUSIAST </h2>
 
