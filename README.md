@@ -3,7 +3,7 @@
 <img width="100%" src='./assets/cover.gif' />
 
 <div align="center">
-   <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deggd35wtsiyuvfh4enu7wcz5q&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=true&bar_color=ff0000)"/>
+   <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31deggd35wtsiyuvfh4enu7wcz5q&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true&bar_color=ff0000"/>
 </div>
 
 
