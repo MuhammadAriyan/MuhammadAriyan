@@ -3,7 +3,7 @@
 <img width="100%" src='./assets/cover.gif' />
 
 <div align="center">
-   <img  width='100%' src="./assets/banner.jpeg"/>
+   <img width="100%" src='https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header'/>
 </div>
 
 
