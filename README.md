@@ -12,7 +12,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAriyan&theme=2077" height="150" alt="stats graph" />
 
 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadAriyan&theme=2077&utcOffset=8" height="150" alt="stats graph" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadAriyan&theme=2077&utcOffset=8" height="150" alt="graph c" />
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAriyan&theme=2077" />
 </div>
    
