@@ -32,6 +32,8 @@
     <img width="12"/>
     <img src="https://skillicons.dev/icons?i=next" height="30" alt="Next.js logo" />
     <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
+    <img width="12"/>
     <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS logo" />
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sanity/sanity-original.svg" height="30" alt="sanity logo" />
