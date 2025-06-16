@@ -18,31 +18,29 @@
    
    
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+    <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JavaScript logo" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
+    <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="TypeScript logo" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+    <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5 logo" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+    <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3 logo" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+    <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python logo" />
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva logo" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
+    <img src="https://skillicons.dev/icons?i=next" height="30" alt="Next.js logo" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS logo" />
-    <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />   
+    <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS logo" />
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sanity/sanity-original.svg" height="30" alt="sanity logo" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+    <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+    <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+    <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
 </div>
 
 
